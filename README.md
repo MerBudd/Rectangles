@@ -2,7 +2,7 @@
 
 The GitHub page for a game called "***Rectangles***"
 
-(https://user-images.githubusercontent.com/82082386/211592496-2b39a438-eb11-49ce-944a-7840a341fe64.png)
+[https://user-images.githubusercontent.com/82082386/211592496-2b39a438-eb11-49ce-944a-7840a341fe64.png]
 
 *Rectangles* is a platformer game with very basic mechanics. It isn't the kind of thing that'll entertain you for **weeks**, but it does sometimes offer really hard challenges, and is fun to play for a couple minutes when you're bored!
 

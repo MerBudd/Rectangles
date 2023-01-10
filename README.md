@@ -1,8 +1,6 @@
-# Rectangles
+# Rectangles <img src="https://user-images.githubusercontent.com/82082386/211609028-70c91ff8-0349-4e51-b04c-18312ab56ed2.png" width="48" height="48" />
 
 The GitHub page for a game called "***Rectangles***"
-
-<img src="https://user-images.githubusercontent.com/82082386/211609028-70c91ff8-0349-4e51-b04c-18312ab56ed2.png" width="48" height="48" />
 
 
 *Rectangles* is a platformer game with very basic mechanics. It isn't the kind of thing that'll entertain you for **weeks**, but it does sometimes offer really hard challenges, and is fun to play for a couple minutes when you're bored!

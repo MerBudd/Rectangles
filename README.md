@@ -14,4 +14,4 @@ We'd really appreciate it if you could support this project by starring this rep
   I own this repo only because GitHub has some sort of weird bug on Crab's device :D 
   Also the "Rectangles" repo on Crab's profile is the one where he got an error on. You can ignore it, this is the main repo for now.
 </details>
-! (https://user-images.githubusercontent.com/82082386/211592885-f2edbc46-3cfc-48f4-b466-f6654a3a3c60.png)
+!(https://user-images.githubusercontent.com/82082386/211592885-f2edbc46-3cfc-48f4-b466-f6654a3a3c60.png)

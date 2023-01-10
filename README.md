@@ -2,7 +2,7 @@
 
 The GitHub page for a game called "***Rectangles***"
 
-[https://user-images.githubusercontent.com/82082386/211592496-2b39a438-eb11-49ce-944a-7840a341fe64.png]
+![app_icon](https://user-images.githubusercontent.com/82082386/211593047-00af6d6a-b32e-439f-876e-c0c467c41bb8.png)
 
 *Rectangles* is a platformer game with very basic mechanics. It isn't the kind of thing that'll entertain you for **weeks**, but it does sometimes offer really hard challenges, and is fun to play for a couple minutes when you're bored!
 
@@ -14,4 +14,4 @@ We'd really appreciate it if you could support this project by starring this rep
   I own this repo only because GitHub has some sort of weird bug on Crab's device :D 
   Also the "Rectangles" repo on Crab's profile is the one where he got an error on. You can ignore it, this is the main repo for now.
 </details>
-! [App Icon] (https://user-images.githubusercontent.com/82082386/211592885-f2edbc46-3cfc-48f4-b466-f6654a3a3c60.png)
+
